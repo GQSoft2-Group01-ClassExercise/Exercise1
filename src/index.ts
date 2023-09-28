@@ -1,5 +1,7 @@
 import { sumOnly, sumWithDiscount } from "./domain/calc";
 
+//let printMessage = (msg: string): void => console.log(`Mensagem: ${msg}`);
+
 let msg = "Olá Switch-QA";
 console.log(msg);
 
